@@ -1,0 +1,68 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: rgb(182, 182, 231)!important;
+}
+nav{
+    background-color: rgba(57, 102, 86, 0.829);
+    
+}
+nav .navbar-collapse{
+    justify-content: end;
+}
+.nombre{
+    padding: 2px;
+
+}
+.yo{
+    width: 220px;
+    height: 300px;
+    border-radius: 15px;
+}
+.radio{
+    border-radius: 40px;
+}
+.info{
+    background-color: rgba(57, 102, 86, 0.829);
+}
+.experiencia{
+    text-align: center;
+    font-size: 20px;
+}
+.cajita{
+    padding-top: 18px;
+    padding-bottom: 18px;
+    background-color: rgb(221, 221, 221);
+    color: black;
+    width: 200px;
+    border-radius: 20px;
+    text-align: center;
+}
+.cajita2{
+    padding-top: 18px;
+    padding-bottom: 18px;
+    background-color: rgba(57, 102, 86, 0.829);
+    color: black;
+    border-radius: 20px;
+    text-align: center;
+}
+.cajita3{
+    padding-top: 18px;
+    padding-bottom: 18px;
+    background-color: rgba(55, 97, 82, 0.829);
+    color: black;
+    border-radius: 20px;
+    text-align: center;
+}
+footer{
+    text-align: center;
+    background-color: rgba(57, 102, 86, 0.829);
+    border-radius: 10px;
+    height: 80px;
+}
+footer img{
+    width: 50px!important;
+    height: 40px;
+}
