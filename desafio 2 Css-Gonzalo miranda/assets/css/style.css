@@ -1,0 +1,48 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+.main{
+    background-image: url(../img/reloj3.webp); 
+    background-size: 1350px;
+    height: 550px;
+    text-align: center;
+}
+.h1Titulo{
+    padding-left: 50px;
+    padding-top: 20px;
+}
+div{
+    display: flex;
+    padding: 25px;
+    align-items: center;
+} 
+.h1Titulo{
+    text-align: left;
+    font-size: 70px;
+}
+.h3subtitulo{
+    text-align: left;
+    font-size: 38px;
+    padding-left: 75px;
+    padding-top: 20px;
+}
+body{
+    background-color: rgba(160, 98, 17, 0.432);
+}
+.div2{
+    display: flex;
+    justify-content: space-between;
+    font-family: cursive;
+}
+p{
+    margin: 7px;
+}
+img{
+    border-radius: 10px;
+}
+.footer{
+    background-color:rgb(39, 118, 138);
+    margin: 10px;
+    border-radius: 50px;
+}
